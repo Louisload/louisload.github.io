@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/louisload
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://luisrodriguesalves.dev
+  * I am louisload (https://keybase.io/louisload) on keybase.
+  * I have a public key ASCzkzjUHj1zhBGKSkdlXngoeMrnN2-vBpOsQbMvkAhC0wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101eb1edfb6fa482751f721b451230924720aa48317ff5e5846c54b46bbecd5e8980a",
+      "host": "keybase.io",
+      "kid": "0120b39338d41e3d7384118a4a47655e782878cae7376faf0693ac41b32f900842d30a",
+      "uid": "b4eba0bd5d8d1404ca9de9b4d5053319",
+      "username": "louisload"
+    },
+    "merkle_root": {
+      "ctime": 1605652629,
+      "hash": "d30265edef0cf8cb3b4786bf6cad843c586c654eedcf8b326e52dfaec6bc60572e82dc9b8a404c8922c00eab1ec728175ac0eef35b7f4ce38f6c0584d71505a9",
+      "hash_meta": "54f4ccf7e5c6074ea6c04e70dc587530db25e460491d13f8f03a6f53963d7e03",
+      "seqno": 18153017
+    },
+    "service": {
+      "entropy": "jXajKRHIlRO6Xw7FcygLZLCB",
+      "hostname": "luisrodriguesalves.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1605652680,
+  "expire_in": 504576000,
+  "prev": "8c50720b1de355d21290eeac9000517fc45fb4f70af446181bf4c00da0688184",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs5M41B49c4QRikpHZV54KHjK5zdvrwaTrEGzL5AIQtMKp3BheWxvYWTESpcCF8QgjFByCx3jVdISkO6skABRf8RftPcK9EYYG/TADaBogYTEIJF/VbwPHXKuwYGNvcDhTf2MvsburStWYpuvsNC6h3tHAgHCo3NpZ8RAr/o5NMx50p7+U3EZ0RYM/GtlWz7acnEy5xSDG9Q3cuv9sckz4bigBScbz5hHOUzQBsmH2ecQdbQhbKWtm8BuDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFyDA4yLRRR3mZ+ke5EkD9+KbNh2II7YalLChSxCnGLdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/louisload
+
+==================================================================
